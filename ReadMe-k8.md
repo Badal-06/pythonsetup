@@ -1,5 +1,6 @@
 #k8 deployment
 kind create cluster --config kind-config.yml
+
 kind get clusters
 
 -- Load Image in kind
